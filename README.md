@@ -1,1 +1,1 @@
-# resume https://risknz.github.io/resume/
+# Resume/CV: https://risknz.github.io/resume/ 😃
