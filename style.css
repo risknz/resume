@@ -1,0 +1,65 @@
+/* style.css */
+
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 20px auto;
+    max-width: 800px;
+    line-height: 1.8;
+    background-color: #ffffff;
+    color: #444;
+}
+
+h1 {
+    color: #1abc9c;
+    text-align: center;
+    margin-top: 10px;
+}
+
+h2, h3 {
+    color: #1abc9c;
+    text-align: center;
+}
+
+.contact, .experience, .references, .qualifications, .skills {
+    margin-bottom: 25px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.job-title {
+    font-weight: bold;
+    color: #2980b9;
+}
+
+.job-period {
+    font-style: italic;
+    color: #95a5a6;
+}
+
+.job-details {
+    margin-bottom: 10px;
+}
+
+.qualifications a {
+    color: #32CD32;
+    text-decoration: none;
+}
+
+.qualifications a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 10px;
+}
